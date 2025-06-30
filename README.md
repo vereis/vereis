@@ -1,1 +1,9 @@
-![image](https://github.com/user-attachments/assets/628ec1ca-80a8-43e9-9249-a4a7aac77b1e)
+![image](https://github.com/user-attachments/assets/328a3f89-2518-4e9f-a29d-9275f53a62ee)
+
+# ahoy~!! i'm `vereis`~!!
+
+i'm a `london`-based tech lead & i have a long history of working on distributed systems using [erlang](https://erlang.org) and [elixir](https://elixir-lang.org).
+
+i collect `hhkb`s and `hhkb`-layout keyboards, and dark magician girls (i have like, every one) :3
+
+feel free to check out [my personal site and blog](https://vereis.com)!!
