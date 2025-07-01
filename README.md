@@ -4,6 +4,10 @@
 
 i'm a `london`-based tech lead & i have a long history of working on distributed systems using [erlang](https://erlang.org) and [elixir](https://elixir-lang.org).
 
-i collect `hhkb`s and `hhkb`-layout keyboards, and dark magician girls (i have like, every one) :3
+i use hhkbs, nixos, and vim, btw
 
 feel free to check out [my personal site and blog](https://vereis.com)!!
+
+## dark magician girl of the day~!!
+
+![image](https://github.com/user-attachments/assets/3e036c56-e157-4d6b-9bca-7befd3189f8a)
