@@ -7,7 +7,3 @@ i'm a `london`-based tech lead & i have a long history of working on distributed
 i use hhkbs, nixos, and vim, btw
 
 feel free to check out [my personal site and blog](https://vereis.com)!!
-
-## dark magician girl of the day~!!
-
-![image](https://github.com/user-attachments/assets/3e036c56-e157-4d6b-9bca-7befd3189f8a)
