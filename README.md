@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/328a3f89-2518-4e9f-a29d-9275f53a62ee)
+<img width="3484" height="1162" alt="{A472021F-2A5C-42CF-8F60-13CE3F597216}" src="https://github.com/user-attachments/assets/26a771f6-320c-4609-ae4a-dad7477caa58" />
 
 # ahoy~!! i'm `vereis`~!!
 
