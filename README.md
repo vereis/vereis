@@ -1,3 +1,1 @@
-<img width="3484" height="1162" alt="{A472021F-2A5C-42CF-8F60-13CE3F597216}" src="https://github.com/user-attachments/assets/0e261655-8cb7-4b8b-8460-8193693935c8" />
-
-> (it's /vɑːˈreɪ/ btw)... building stupid stuff no one uses in erlang & elixir...
+<img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/29ed5c36-c0df-47f4-81aa-fb0e19e1541d" />
